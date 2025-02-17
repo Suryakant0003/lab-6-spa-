@@ -1,0 +1,5 @@
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+"homepage": "https://Suryakant0003.github.io/lab-6-spa-"
